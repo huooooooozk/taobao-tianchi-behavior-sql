@@ -1,4 +1,4 @@
-# taobao-behavior-sql
+# taobao-tianchi-behavior-sql
 
 阿里天池 [UserBehavior](https://tianchi.aliyun.com/dataset/649) 数据集上的 SQL 练习,围绕电商用户行为分析的常见场景,覆盖 SQL 面试常考的窗口函数、CTE、`QUALIFY`、条件聚合、gaps-and-islands、会话切分等技术点。基于 [DuckDB](https://duckdb.org/),零配置、单文件、亿行秒级聚合。
 
